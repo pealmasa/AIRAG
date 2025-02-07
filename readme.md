@@ -2,6 +2,7 @@ AI RAG playground and resources
 
 
 ### Semantic Kernel: Implementing 100% Local RAG Using Phi-3 With Local Embeddings
+https://jamiemaguire.net/index.php/2024/08/25/how-to-running-the-small-language-model-phi3-locally/
 https://jamiemaguire.net/index.php/2024/09/01/semantic-kernel-implementing-100-local-rag-using-phi-3-with-local-embeddings/
 
 
