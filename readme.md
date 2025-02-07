@@ -8,7 +8,7 @@ https://jamiemaguire.net/index.php/2024/09/01/semantic-kernel-implementing-100-l
 
 ### AI at the edge with Small Language Models (SLMs)
 https://devblogs.microsoft.com/dotnet/build-gen-ai-with-dotnet-8/#ai-at-the-edge-with-small-language-models-(slms)
-
+https://devblogs.microsoft.com/dotnet/using-phi3-csharp-with-onnx-for-text-and-vision-samples-md/
 
 ### AI Dev gallery
 https://github.com/microsoft/ai-dev-gallery
