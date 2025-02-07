@@ -12,3 +12,7 @@ https://devblogs.microsoft.com/dotnet/using-phi3-csharp-with-onnx-for-text-and-v
 
 ### AI Dev gallery
 https://github.com/microsoft/ai-dev-gallery
+
+
+### Memory
+https://jamiemaguire.net/index.php/2024/10/06/semantic-kernel-using-memories-to-create-intelligent-ai-agents/
